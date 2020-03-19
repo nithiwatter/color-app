@@ -1,0 +1,9 @@
+.Palette {
+  height: 100vh;
+  font-size: 0;
+  overflow: hidden;
+}
+
+.Palette-colors {
+  height: 90%;
+}
